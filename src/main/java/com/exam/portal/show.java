@@ -8,7 +8,8 @@ public class show {
    @GetMapping("/show")
     public String message()
     {
-        return "Hello There, This is afsar khan, Have a good day ";
+        return "Hello There, This is afsar khan, Have a good day " +
+                "new feature added" +
+                "bug fixed";
     }
 }
-git
