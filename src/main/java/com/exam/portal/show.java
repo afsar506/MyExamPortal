@@ -9,6 +9,7 @@ public class show {
     public String message()
     {
         return "Hello There, This is afsar khan, Have a good day " +
-                "new feature added";
+                "new feature added" +
+                "bug fixed";
     }
 }
